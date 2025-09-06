@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "Name": "John Doe",
+      "Phone": "1234567890",
+      "Email": "johndoe@gmail.com"
+    },
+    {
+      "Name": "Jane Smith",
+      "Phone": "9876543210",
+      "Email": "janesmith@gmail.com"
+    },
+    {
+      "Name": "Alice Johnson",
+      "Phone": "5551212345",
+      "Email": "alicejohnson@gmail.com"
+    },
+    {
+      "Name": "David Lee",
+      "Phone": "5432109876",
+      "Email": "david.lee@gmail.com"
+    },
+    {
+      "Name": "Sarah Miller",
+      "Phone": "2345678001",
+      "Email": "sarah.miller@gmail.com"
+    },
+    {
+      "Name": "Michael Brown",
+      "Phone": "8765432190",
+      "Email": "michael.brown@gmail.com"
+    }
+  ]
+}
